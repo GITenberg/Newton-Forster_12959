@@ -1,0 +1,34 @@
+_repo: Newton-Forster_12959
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryat, Captain
+    - Marryatt, Captain
+    - Marryat, F. W. (Frederick W.)
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'East India Company -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- !lcsh 'Merchant mariners -- Fiction'
+- !lcsh 'Romantic suspense fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History, Naval -- 19th century -- Fiction'
+- GITenberg
+title: Newton Forster
+url: http://www.gutenberg.org/ebooks/12959
